@@ -48,7 +48,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     Akb4R: 'SYAHRI-BOT', // TOBAT SU ASU
-    instagram: 'https://instagram.com/barxnl', // INFO JANGAN DI UBAH
+    instagram: 'https://instagram.com/nsrstory', // INFO JANGAN DI UBAH
     nomer: 'wa.me/6285893123964', // INFO SU JNGAN DI UBAH
     youtube: 'https://youtube.com/channel/UCGYLWtyT9I', // KINTIL
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFB9mkVs', // BABI
@@ -674,7 +674,7 @@ break
             case 'owner':
             case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-       client.sendMessage(from, 'Tuh kak no CO *BARXNL-BOT*, Kalau ada perlu atau sesuatu chat dia aja kak><',MessageType.text, { quoted: mek} )
+       client.sendMessage(from, 'Tuh kak no yg buat *SYAHRI-BOT*, Kalau ada perlu atau sesuatu chat dia aja kak><',MessageType.text, { quoted: mek} )
            break    
            case 'demote':
 					if (!isGroup) return reply(mess.only.group)
