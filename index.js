@@ -35,9 +35,9 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
-            + 'FN:Akbar🗿\n' // MENDING LU TOBAT SU!
-            + 'ORG:Creator BARXNL-BOT;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6282198571732:+62 821-9857-1732\n' // JANGAN KEK BABI SU
+            + 'FN:SYAHRI\n' // MENDING LU TOBAT SU!
+            + 'ORG:Creator SYAHRI-BOT;\n' // KASIH CREDITS GUA SU!!!
+            + 'TEL;type=CELL;type=VOICE;waid=6285893123964:+62 858-9312-3964\n' // JANGAN KEK BABI SU
             + 'END:VCARD' // BARXNL-BOT
 prefix = '!'
 blocked = []            
@@ -47,9 +47,9 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    Akb4R: 'BARXNL-BOT', // TOBAT SU ASU
+    Akb4R: 'SYAHRI-BOT', // TOBAT SU ASU
     instagram: 'https://instagram.com/barxnl', // INFO JANGAN DI UBAH
-    nomer: 'wa.me/6282198571732', // INFO SU JNGAN DI UBAH
+    nomer: 'wa.me/6285893123964', // INFO SU JNGAN DI UBAH
     youtube: 'https://youtube.com/channel/UCGYLWtyT9I', // KINTIL
     whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFB9mkVs', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
