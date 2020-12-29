@@ -1,6 +1,6 @@
 
 const help = (prefix) => { 
-	return `*Lindy-BOT*🖤               
+	return `*Syahri-BOT*🖤               
 
 Hi👋
 Jangan spam gua Tod🗿
@@ -51,7 +51,9 @@ Jangan spam gua Tod🗿
 ┃╠➥ *${prefix}quotes*
 ┃╠➥ *${prefix}hilih* [text]
 ┃╠➥ *${prefix}truth* [error]
-┃╠➥ *${prefix}dare*
+┃╠➥ *${prefix}dare* 
+┃╠➥ *${prefix}hidetag*
+┃╠➥ *${prefix}waifu*
 ┣━━°❀ ❬ _*OWNER*_ ❭ ❀°━━━⊱
 ┃╠➥ *${prefix}bc*
 ┃╠➥ *${prefix}leave*
@@ -62,12 +64,12 @@ Jangan spam gua Tod🗿
 ┃╠➥ *${prefix}unblock*
 ┣━━━━━━━━━━━━━━━━━━━⊱
 ┃ *Follow to Ig Bot*
-┃ instagram.com/barxnl 
+┃ instagram.com/nsrstory
 ┃
 ┃ *Thanks For*🤝
 ┃ _MhankBarBar_
 ┣━━━━━━━━━━━━━━━━━━━⊱ 
-┃ _*Powered By BARXNL-BOT*_
+┃ _*Powered By SYAHRi-BOT*_
 ┗━━━━━━━━━━━━━━━━━━━⊱`
 }
 exports.help = help
