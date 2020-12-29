@@ -3,7 +3,7 @@ const help = (prefix) => {
 	return `*Syahri-BOT*🖤               
 
 Hi👋
-Jangan spam gua Tod🗿
+ *Welcome to Syahri-bot*
 ┏━━━°❀ ❬ _*ABOUT*_ ❭ ❀°━━━┓
 ┃║
 ┏❉ *${prefix}owner*
