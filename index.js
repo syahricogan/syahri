@@ -38,7 +38,7 @@ const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'FN:SYAHRI\n' // MENDING LU TOBAT SU!
             + 'ORG:Creator SYAHRI-BOT;\n' // KASIH CREDITS GUA SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=6285893123964:+62 858-9312-3964\n' // JANGAN KEK BABI SU
-            + 'END:VCARD' // BARXNL-BOT
+            + 'END:VCARD' // SYAHRi-BOT
 prefix = '!'
 blocked = []            
 const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
@@ -50,8 +50,8 @@ const config = {
     Akb4R: 'SYAHRI-BOT', // TOBAT SU ASU
     instagram: 'https://instagram.com/nsrstory', // INFO JANGAN DI UBAH
     nomer: 'wa.me/6285893123964', // INFO SU JNGAN DI UBAH
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9I', // KINTIL
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFB9mkVs', // BABI
+    youtube: 'https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g', // KINTIL
+    whatsapp: 'https://chat.whatsapp.com/EIgr9N3ID159s7pZFgEYa5', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
@@ -665,7 +665,7 @@ break
 						reply('𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙗𝙧𝙤𝙖𝙙𝙘𝙖𝙨𝙩 ')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*Barxnl Broadcast!!*\n\n${body.slice(4)}`)
+							sendMess(_.jid, `*SYAHRI Broadcast!!*\n\n${body.slice(4)}`)
 						}
 						reply('𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙗𝙧𝙤𝙖𝙙𝙘𝙖𝙨𝙩 ')
 					}
