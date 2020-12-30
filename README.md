@@ -25,12 +25,12 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri BARXNL-BOT.
+Script ini di modifikasi sama saya sendiri SYAHRi-BOT.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/BarBot-spec/Akb4r-BOT
-> cd Akb4r-BOT
+> git clone https://github.com/syahricogan/syahri
+> cd syahri
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
